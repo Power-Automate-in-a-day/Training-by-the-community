@@ -1,3 +1,3 @@
 # Basic-Training
-This is the Flow in a day v6. material
-We will upate this material in the coming weeks
+This is the Power Automate in a day v8. material
+Last updated: 5/24/2020

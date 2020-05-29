@@ -1,5 +1,5 @@
 # Training
-This is the Power Automate in a day v8 material
+This is the Power Automate in a day v8 material.
 v1 was created in July 2018
 Last updated: 5/28/2020
 start from the file Trainer notes 

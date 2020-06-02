@@ -14,5 +14,5 @@ This is the Power Automate in a day v8 material.
 - I you create a new lab, don't forget to mention your name in the lab
 - Before editing the labs (in Word), make sure that track changes has been set up.
 - Don't save into pdf I (serge) will check all the changes before saving the word document into pdf.
-- and thank you for for the community :-)
+- and thank you for for the community :-)x
 

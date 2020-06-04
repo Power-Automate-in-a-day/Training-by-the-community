@@ -3,6 +3,7 @@
 At the time of writing the new Flow designer is still in experimental stage. To select the new designer,
 1.	go to flow.microsoft.com, 
 2.	select the settings button:
+
 ![settings](./Images/Settings.png "Settings")
 
 3.	Select View all Power Automate settings:
@@ -11,7 +12,7 @@ At the time of writing the new Flow designer is still in experimental stage. To 
 
 4.	Check the option Experimental Features:
 
-![Experimental Features](./Images/ExperimentalFeatures.png "Experimental Features")
+![Experimental Features](./Images/SwitchOnExperimentalFeatures.png "Experimental Features")
  
 5.	Click Save.
 
@@ -20,15 +21,18 @@ At the time of writing the new Flow designer is still in experimental stage. To 
 The Office 365 license provides you with a Standard Power Apps and Power Automate license which is good enough for most labs. However, some labs require a Premium connector; the Community license give you access to Premium features of the product for free. The main restriction with the Community license is that flows, and applications created with the Community license cannot be shared with other users.
 Go to https://powerapps.microsoft.com/en-us/communityplan/ and click Get started for free
  
-![Power Apps Community Edition](./Images/PowerAppsComunityEdition.png "Power Apps community Edition")
+![Power Apps Community Edition](./Images/PowerAppsCommunityEdition.png "Power Apps community Edition")
+
 6.	Enter your e-mail address:
+
 ![Enter your email address](./Images/EnterYourEmailAddress.png "Enter your email address")
+
 7.	And Sign-in:
+
 ![Sign In](./Images/SignIn.png "Sign In")
 
- 
-
 Click Start:
+
 ![Almost there](./Images/AlmostThere.png "Amost there")
  
 

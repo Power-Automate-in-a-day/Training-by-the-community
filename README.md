@@ -9,11 +9,4 @@ This is the Power Automate in a day v8 material.
 - This is a community project we are volunteers and we do that on our free time.
 
 
-# Note to contributors
-
--We are currently working on v9 you will find the v9 branch (draft). v8 is the master branch, don't update v8. 
--I you create a new lab, don't forget to mention your name in the lab
-- Before editing the labs (in Word), make sure that track changes has been set up.
-- Don't save into pdf I (serge) will check all the changes before saving the word document into pdf.
-- and thank you for for the community :-)
 

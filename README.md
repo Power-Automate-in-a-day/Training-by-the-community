@@ -2,6 +2,7 @@
 This is the Power Automate in a day v8 material.  
 - v1 was created in July 2018.  
 - v8 Last updated: 03/05/2021
+- v9 is being updated by Serge Luca - aka Doctor Flow (deadline : March 2023)
 - Start from the file Trainer notes. 
 - Don't forget to download the resources for the labs, we minimized the number of resource files you need to follow the labs.  
 - Some labs require a premium licence, in lab 0 we show you how to create a community license.  

@@ -1,5 +1,5 @@
 # Welcome to Power Automate in a day training - 2025
-This is the Power Automate in a day v10 material (last update : March 2025, by Serge Luca - aka "Doctor Flow")  
+This is the Power Automate in a day v10 material (last update : March 2025, by Serge Luca - aka "Doctor Flow" (from ShareQL.com)  
 - v1 was created in July 2018.  
 - 9 versions have been created since 2018.
 - Starting in 2025, we began recording the content in videos uploaded to YouTube. Here is the link to the [Youtube playlist](https://www.youtube.com/watch?v=-bynK8hlylM&list=PL6oVinAUc710j7KwOxQUvAXZACagc2k-Y).

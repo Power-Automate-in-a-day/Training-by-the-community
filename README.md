@@ -8,5 +8,7 @@ This is the Power Automate in a day v10 material (last update : March 2025, by S
 - Don't hesitate to report any typo, error, suggestion in the "issues" part of the site.  
 - This is a community project we are volunteers and we do that on our free time.
 
+  <p>  Lab 0 - Introduction and setup (https://youtu.be/-bynK8hlylM)</p>
+
 
 

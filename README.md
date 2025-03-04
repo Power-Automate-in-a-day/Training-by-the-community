@@ -10,6 +10,10 @@ This is the Power Automate in a day v10 material (last update : March 2025, by S
 
  - [Lab 0 - Introduction and setup](https://youtu.be/-bynK8hlylM)
  - [Lab 1 - Create your first flow](https://youtu.be/XArZAsktcC8)
+ - [Lab 2 - Connect to SharePoint & Approval](https://youtu.be/3o2Yno8ke8A).
+ - [Lab 3 - Trigger conditions & mobile notifications](https://youtu.be/ZLK-77lwB80).
+ - [Lab 4 - More expressions, variables, arrays, HTML tables](https://youtu.be/nzCnRrcdQeU)
+ - [Lab 5 - Manage MS Forms submissions with Power Automate](https://youtu.be/MpEjqH6BEJ4).
 
 
 

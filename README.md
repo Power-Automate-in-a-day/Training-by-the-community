@@ -40,7 +40,7 @@ Please report any typos, errors, or suggestions in the Issues section of the sit
  - [Lab 4 - More expressions, variables, arrays, HTML tables](https://youtu.be/nzCnRrcdQeU)
  - [Lab 5 - Manage MS Forms submissions with Power Automate](https://youtu.be/MpEjqH6BEJ4).
  - [Lab 6 - Compare dates, filter with oData](https://youtu.be/CLd6Lu5PnVg)
- - [Lab 7 - Call a flow from Power Apps](https://youtu.be/zdZuLQwxOj4)
+ - [Lab 7 - Call a flow from Power Apps](https://youtu.be/e5RJK7oywcA)
  - [Lab 8 - Create a solution, create a developer environment](https://youtu.be/rLC3lnmoh4Y)
  - [Lab 9 - Use Word templates to documents - create PDFs](https://youtu.be/YdtHeABFSfQ)
  - [Lab 10 - Call a web service from a flow - use the HTTP action](https://youtu.be/YdtHeABFSfQ)

@@ -43,7 +43,7 @@ Please report any typos, errors, or suggestions in the Issues section of the sit
  - [Lab 7 - Call a flow from Power Apps](https://youtu.be/e5RJK7oywcA)
  - [Lab 8 - Create a solution, create a developer environment](https://youtu.be/rLC3lnmoh4Y)
  - [Lab 9 - Use Word templates to documents - create PDFs](https://youtu.be/YdtHeABFSfQ)
- - [Lab 10 - Call a web service from a flow - use the HTTP action](https://youtu.be/YdtHeABFSfQ)
+ - [Lab 10 - Call a web service from a flow - use the HTTP action](https://youtu.be/YdtHeABFSfQ](https://www.youtube.com/watch?v=FCgCs13M-qw&list=PL6oVinAUc710j7KwOxQUvAXZACagc2k-Y&index=11)
  - [Lab 11 - Create and use a custom connector](https://youtu.be/N0jHKvYKk7g)
 
 
